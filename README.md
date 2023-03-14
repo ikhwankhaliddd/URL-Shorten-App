@@ -84,6 +84,5 @@ The example response of the shorten URL API:
 
 ## Acknowledgements
 
-This application was inspired by `Bit.ly URL Shortener`.
-
+This application was inspired by `Bit.ly URL Shortener`
 
